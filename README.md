@@ -1,11 +1,17 @@
 Smart India Hackathon Workshop
+
 Date: 17.03.26
+
 Register Number:212224240186
+
 Name: Vishvanandh N
+
 Problem Title
+
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 
 Problem Description
+
 Background: Railway stations are complex environments with numerous facilities and locations such as ticket counters, platforms, restrooms, food courts, and waiting areas. Passengers often face difficulties in navigating these spaces, especially in large or unfamiliar stations. Efficient and user-friendly navigation systems are crucial for improving passenger experience, reducing congestion, and ensuring timely travel connections. Description: The problem involves developing a comprehensive navigation solution for railway stations that assists passengers in locating various facilities and destinations within the station premises. This includes creating detailed maps, providing real-time directions, and integrating features such as accessibility options for individuals with disabilities. The solution should be intuitive, easy to use, and accessible via multiple platforms, including mobile devices and digital kiosks. Key challenges include updating navigation information in real-time, ensuring accuracy, and accommodating the diverse needs of all passengers. Expected Solution: The expected solution is a multi-platform navigation system that provides detailed, real-time directions to all facilities and locations within a railway station. This system should include: A mobile application with 3D interactive maps and step-by-step navigation. Digital kiosks located throughout the station with touch-screen interfaces. Voice-guided navigation for visually impaired passengers. Regular updates to reflect changes in station layout and facility locations. Integration with existing railway apps and services for seamless user experience. The solution should enhance the overall passenger experience by reducing confusion, saving time, and improving accessibility within the station.
 
 Problem Creater's Organization
@@ -54,10 +60,15 @@ Emergency alert broadcasting
 Map and layout management dashboard
 
 Proposed Solution / Architecture Diagram
-Screenshot 2025-12-16 130409
+
+<img width="1081" height="590" alt="Screenshot 2026-03-17 140321" src="https://github.com/user-attachments/assets/bed295d6-5946-493e-896d-da717282d8a3" />
+
 Use Cases
-Screenshot 2025-12-16 130424
+
+<img width="1077" height="425" alt="Screenshot 2026-03-17 140336" src="https://github.com/user-attachments/assets/a4e0f3ea-5e68-481d-98a8-a0039b946169" />
+
 Technology Stack
+
 Layer	Technology
 Mobile App	Flutter / React Native
 Backend	Node.js / Python
